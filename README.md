@@ -18,12 +18,13 @@ Uma aplicação mobile feita com **Flutter** que simula uma Pokédex. O usuário
 # Prints da aplicação
 
 <p float="left>
+  
   <img src="./assets/tela1.png" width="300"/>
-  <img src="./assets/tela2.png" width="300"/>
   <img src="./assets/tela3.png" width="300"/>
+  <img src="./assets/tela2.png" width="300"/>
 </p>
 <p float="left">
-  <img src="./assets/video.gif" width="500"/>
+  <img src="./assets/video.gif" width="400"/>
 </p>
 
 # Estrutura do projeto
