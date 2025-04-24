@@ -45,5 +45,6 @@ lib/
 # Teste a aplicação
 
 ## Web [https://preview.flutlab.io/thullio_ferreira/pokedex-mobile/]
-## APK android
-## APK ios
+## APK android 
+<img src="./assets/qrcode.png" width="300"/>
+
